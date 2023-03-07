@@ -15,9 +15,9 @@
  
 4) GS_SkillsOverview_Practice.xlsx
  
-    Skills: 
+    Skills: Data Anatomy, Data Types, Formatting Cells, Data Sorting - "Tidy Data 1, 2, 3a, 3b"
  
 5) GS_UsingFormulas_Practice.xlsx
 
-    Skills: 
+    Skills: Cell References, Count, Sum, Mean, Dates, Times, Selecting Text, Combining Text and Data, Conditional Formatting
  
